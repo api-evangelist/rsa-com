@@ -1,23 +1,96 @@
 aid: rsa-com
+
 name: RSA
-description: 'RSA is a company surfaced via the API Evangelist harvest backlog (source: gartner-mq) and
-  added to the network as a stub for full-pipeline profiling.'
+
+image: https://www.rsa.com/wp-content/uploads/rsa-og-image-2026.png
+
+description: 'RSA provides identity and access management solutions, including multi-factor authentication, passwordless authentication, and security governance. Their platform helps organizations protect digital assets, streamline compliance, and defend against advanced threats through AI‑driven security and robust authentication services.'
+
 url: https://raw.githubusercontent.com/api-evangelist/rsa-com/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:gartner-mq
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-10-03 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-10-03'
+
 modified: '2026-10-03'
+
 tags:
-- Company
-apis: []
+- Identity Management
+- Multi-Factor Authentication
+- Passwordless
+- Identity Governance
+- Cloud IAM
+- Government
+- Financial Services
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+
 common:
+- type: Spectral
+  url: rules/rsa-com-rules.yml
+- type: Conformance
+  url: conformance/rsa-com-conformance.yml
+- type: LLMsTxt
+  url: llms/rsa-com-llms.txt
+- type: WellKnown
+  url: well-known/rsa-com-well-known.yml
+- type: Hosts
+  url: hosts/rsa-com-hosts.yml
+- type: Vendors
+  url: vendors/rsa-com-vendors.yml
+- type: TermsOfService
+  url: https://www.rsa.com/terms-of-use/
+- type: PrivacyPolicy
+  url: https://www.rsa.com/privacy/
+- type: Newsroom
+  url: https://www.rsa.com/news/
+- type: DomainSecurity
+  url: security/rsa-com-domain-security.yml
 - type: Website
   url: https://www.rsa.com
+- type: Documentation
+  url: https://www.rsa.com/resources
+- type: Support
+  url: https://www.rsa.com/support
+- type: Blog
+  url: https://www.rsa.com/resources/blog
+
+apis:
+- aid: rsa-com:rsa-com-api
+  name: RSA API
+  description: 'RSA API as documented publicly: 1 operations. Contract generated from the documentation by API Evangelist (2026-10-03); not the
+    provider''s own document.'
+  humanURL: https://community.rsa.com/s/question/0D5PO000012xAQB0A2/restful-webservices-connector-for-microsoft-entraid-user-creation-fails-with-http-401-unauthorized-on-graph-api-post-v10users
+  properties:
+  - type: OpenAPI
+    url: openapi/_ae-authored/rsa-com-openapi-generated.yml
+    x-provenance: generated
+
+x-coverage:
+  state: none
+  reason: no-developer-program
+  method: derived
+  generated: '2026-10-03'
+  generator: derive-coverage.py (pre-flight evidence)
+  detail: >-
+    the company publishes no developer documentation host and no machine-readable contract on its own domain
+  evidence:
+  - url: https://community.rsa.com/mcp/v1
+    status: 401
+x-enrichment:
+  date: '2026-10-03'
+  status: enriched
+  artifacts_added: 12
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local,regulatory=local

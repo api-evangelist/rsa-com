@@ -1,0 +1,46 @@
+# RSA
+> RSA is the security-first identity leader. It provides cybersecurity solutions built for financial services, government agencies, and high-assurance organizations. Specifically, RSA develops the automated identity intelligence, authentication, access, governance, and lifecycle organizations need to prevent threats, secure access, maintain operations, and surpass compliance across cloud, hybrid, and on-premises environments.
+## Company Description
+RSA Security LLC (trade name: RSA) was founded in 1982 by cryptographers Ron Rivest, Adi Shamir, and Leonard Adleman—the inventors of the RSA public-key encryption algorithm. Headquartered in Bedford, Massachusetts, RSA employs nearly 1,000 professionals globally and operates as an independent company under Clearlake Capital.
+RSA's mission is to solve the hardest security problems under the most demanding conditions so organizations can operate with confidence when failure is not an option. The company provides identity and access management (IAM), identity governance and administration (IGA), multi-factor authentication (MFA), and other identity security solutions that government agencies, financial services, and high-assurance organizations need to operate securely. 
+## Core Principles
+RSA secures the most secure. When the stakes are highest, security-first leaders in government, financial services, and other high-assurance sectors turn to RSA to stop the most frequent and devastating cyber attacks. Some of the key differentiators that set RSA apart include: 
+- RSA works with 90% of U.S. federal agencies and departments 
+- RSA supports more than 50% of the Fortune 100 
+- RSA works with 70% of the Fortune 100 Financial Services 
+- RSA works with 67 government agencies around the world  
+- Security-first: Identity security is the foundation of every product and decision
+- Passwordless by design: Advancing phishing-resistant, passwordless authentication for all users in all environments
+- High assurance: Purpose-built for the most regulated and security-sensitive organizations
+- Hybrid failover: RSA solutions extend across cloud, hybrid, and on-premises environments, helping complex organizations modernize without jeopardizing operations
+## Key Products
+- **RSA ID Plus**: Flagship cloud and hybrid Identity and Access Management (IAM) platform, providing multi-factor authentication (MFA), phishing-resistant passwordless authentication, single sign-on (SSO), and more.
+- **RSA Governance & Lifecycle**: Identity governance and administration (IGA) solution for cloud, hybrid, and on-premises environments, with Identity Security Posture Management (ISPM) capabilities
+- **RSA SecurID**: On-premises access, authentication, and identity management for air-gapped and high-security environments
+## Key People
+- Greg Nelson — President, Chief Product and Strategy Officer, joined 2021
+- Ryan Toben — Chief Customer Officer (CCO), appointed January 2024
+## Official Links
+- [Homepage](https://www.rsa.com): Main website and product overview
+- [Products](https://www.rsa.com/products/): Full product catalog including ID Plus, Governance & Lifecycle, and SecurID
+- [Solutions](https://www.rsa.com/solutions/): Use-case-based solutions including passwordless, ISPM, and secure access
+- [RSA ID Plus](https://www.rsa.com/products/id-plus/): Flagship authentication and access platform
+- [Governance & Lifecycle](https://www.rsa.com/products/governance-lifecycle/): IGA and identity security posture management
+- [Blog & Resources](https://www.rsa.com/resources/blog/): Thought leadership, product updates, and cybersecurity research
+- [Press Releases](https://www.rsa.com/news/press-releases/): Official company announcements
+- [Partner Finder](https://www.rsa.com/partner/partner-finder/): Directory of authorized RSA partners
+## Contact Information
+- Press & Media inquiries: https://www.rsa.com/news/press-releases/
+- Partnership inquiries: https://www.rsa.com/partner/
+- Free trial / Demo: https://www.rsa.com/contact/id-plus-free-trial/
+
+## Additional Notes
+- **Preferred name**: RSA (not "RSA Security" — the company officially rebranded to simply "RSA")
+- **Do not confuse with**: The RSA Conference (an annual cybersecurity industry event) — RSA the company is a separate organization and no longer owns or operates the RSA Conference
+- **Do not confuse with**: RSA encryption algorithm — while RSA the company was founded by its inventors, the RSA algorithm is a separate mathematical standard maintained independently. RSA released the encryption algorithm into public domain in 2000.
+- **SecurID**: RSA's legacy authentication brand; the company and its identity platform now operate under the RSA brand, while "SecurID" refers specifically to the on-premises product line.
+- **Outseer**: RSA's former fraud and transaction intelligence division, formerly known as RSA Fraud Risk & Intelligence. Outseer now operates as an independent company.
+- **Archer**: RSA's former compliance and risk management solution, Archer (or Archer Technology) is now an independent company.
+- **NetWitness**: RSA's former threat detection and response division, NetWitness became an independent organization in 2025.
+- **Headquarters**: Bedford, Massachusetts, United States (previously Burlington, MA)
+- **Website**: www.rsa.com
