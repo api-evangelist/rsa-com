@@ -67,16 +67,16 @@ common:
   url: https://www.rsa.com/resources/blog
 
 apis:
-- aid: rsa-com:rsa-com-api
-  name: RSA API
-  description: 'RSA API as documented publicly: 1 operations. Contract generated from the documentation by API Evangelist (2026-10-03); not the
-    provider''s own document.'
-  humanURL: https://community.rsa.com/s/question/0D5PO000012xAQB0A2/restful-webservices-connector-for-microsoft-entraid-user-creation-fails-with-http-401-unauthorized-on-graph-api-post-v10users
+- aid: rsa-com:rsa-com-users-api
+  name: RSA Users API
+  description: The Users API from RSA — 1 operation(s) for users.
+  humanURL: >-
+    https://community.rsa.com/s/question/0D5PO000012xAQB0A2/restful-webservices-connector-for-microsoft-entraid-user-creation-fails-with-http-401-unauthorized-on-graph-api-post-v10users
+  tags:
+  - Users
   properties:
   - type: OpenAPI
-    url: openapi/_ae-authored/rsa-com-openapi-generated.yml
-    x-provenance: generated
-
+    url: openapi/rsa-com-users-api-openapi.yml
 x-coverage:
   state: none
   reason: no-developer-program
